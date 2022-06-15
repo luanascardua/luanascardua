@@ -1,4 +1,4 @@
-### 'Hello, World!' I'm Luana, RPA developer 👋
+### Hello, World! I'm Luana 👋
 <!--
 **luanascardua/luanascardua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,3 @@ Here are some ideas to get you started:
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luanascardua&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanascardua&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
-  ##
-  
-![Snake animation](https://github.com/luanascardua/luanascardua/blob/output/github-contribution-grid-snake.svg)

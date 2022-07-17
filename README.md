@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💻 I’m currently working on Process Automation with Python and Selenium Framework
 - 📫 Send me a message or add me on [linkedin](https://www.linkedin.com/in/luana-scardua/)
 - 📚 I'm Technology enthusiast
-<br>
